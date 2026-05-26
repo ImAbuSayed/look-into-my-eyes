@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/look-into-my-eyes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Look Into My Eyes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/look-into-my-eyes/) |
+| **Get License** | [Commercial Licensing for Look Into My Eyes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/look-into-my-eyes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `10514f8f9ccb5ddd9ad545726e10a226c6273da8254d759247cf32696d8e2289` |
 | **Timestamp** | May 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
